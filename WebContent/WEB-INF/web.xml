@@ -1,0 +1,6 @@
+<web-app>
+  <display-name>ParkingSpaceMgmtSystem</display-name>
+  <welcome-file-list>
+    <welcome-file>LoginPage.html</welcome-file>
+  </welcome-file-list>
+</web-app>
